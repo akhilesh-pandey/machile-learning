@@ -7,6 +7,8 @@ The training data set is assumed to be named as trainData.mat and trainLabels.ma
 Similarly, test data and test labels are assumed to be named as testData.mat and testLabels.mat respectively.
 ## Softmax regression
 For multiple class classification
-## Linear Regression
 
-# Any suggestion and criticism to the further improvement of these codes are most welcome.
+## Linear Regression<par>
+Data set used is boston dataset from sklearn
+
+Any suggestion and criticism to the further improvement of these codes are most welcome.
